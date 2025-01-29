@@ -12,7 +12,7 @@ Computer Science Student From Jordan
 * ✉️  You can contact me at [mosabsalman999@gmail.com](mailto:mosabsalman999@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Transportation Projects
-
+---
 ### Skills
 
 
